@@ -9,9 +9,9 @@ public class demo {
      {
 	   System.out.println("hello...git");
 	   
-	       System.out.println("repository");
+	       System.out.println("repository..in git");
 	   
-		   System.out.println("pull and push");
+		   System.out.println("pull and push....in git");
 	  
 	}
 }
