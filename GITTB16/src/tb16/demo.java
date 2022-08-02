@@ -4,7 +4,11 @@ public class demo {
 	public void mi()
 	{
 	   System.out.println("welcome....cjc");	
-	}	
+	}
+	public void m2()
+	{
+		
+	}
      public static void main(String[] args)
      {
 	   System.out.println("hello...git");
